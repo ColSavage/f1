@@ -1,4 +1,3 @@
-# f1
 # User Guide
 
 ## Running the Application via Binder
